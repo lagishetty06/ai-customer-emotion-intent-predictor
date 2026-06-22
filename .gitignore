@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables / API keys
+.env
+.env.local
+
+# Logs and outputs
+*.log
+test_output.txt
+
+# Streamlit config/state
+.streamlit/
