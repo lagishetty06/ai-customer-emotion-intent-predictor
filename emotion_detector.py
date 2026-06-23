@@ -1,4 +1,4 @@
-```python
+
 """Customer emotion detection using TextBlob only."""
 
 import re
@@ -81,4 +81,4 @@ class EmotionDetector:
             emotion = self.NEUTRAL
 
         return emotion, sentiment_score
-```
+
